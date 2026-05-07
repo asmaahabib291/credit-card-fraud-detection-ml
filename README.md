@@ -1,4 +1,5 @@
 🚀 Credit Card Fraud Detection – Pattern Recognition Project
+
 This is my first project in the Pattern Recognition course at the Egyptian E-Learning University.
 The project focuses on detecting fraudulent credit card transactions using Machine Learning techniques applied on a real-world dataset.
 The dataset is highly imbalanced, which makes the problem more challenging and closer to real-life financial fraud detection scenarios.
